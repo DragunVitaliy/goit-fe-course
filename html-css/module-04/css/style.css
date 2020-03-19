@@ -244,7 +244,7 @@ h3::after {
 
 .post-text {
     margin: 0;
-    overflow: hidden;
+  /*  overflow: hidden;*/
     text-align: left;
     font-size: 14px;
     line-height: 26px;
